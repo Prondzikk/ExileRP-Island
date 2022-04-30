@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css?family=Rajdhani');
+
+*::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+ 
+*::-webkit-scrollbar-thumb {
+  background: #000;
+  border-radius: 5px;
+}
+
+*::-webkit-scrollbar-track {
+  background-image: repeating-linear-gradient(to top, rgb(18,105,202), rgb(0,242,96));
+  /*background: #2abde9;*/
+  border-bottom-right-radius: 20px;
+}
+.menu {
+  font-family: 'Rajdhani', sans-serif;
+  min-width  : 250px;
+  color      : #fff;
+  box-shadow : 0px 0px 10px 0px #000;
+  position   : absolute;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.menu.align-left {
+  right : 40;
+  bottom: 40;
+}
+
+.menu.align-top-left {
+  right : 40;
+  bottom: 40;
+}
+
+.menu.align-top {
+  right : 40;
+  bottom: 40;
+}
+
+.menu.align-top-right {
+  right : 40;
+  bottom: 40;
+}
+
+.menu.align-right {
+  right : 40;
+  bottom: 40;
+}
+
+.menu.align-bottom-right {
+  right : 40;
+  bottom: 40;
+}
+
+.menu.align-bottom {
+  right : 40;
+  bottom: 40;
+}
+
+.menu.align-bottom-left {
+  right : 40;
+  bottom: 40;
+}
+
+.menu.align-center {
+  right : 40;
+  bottom: 40;
+}
+
+.menu .head {
+  /*background-color: #2abde9;*/
+  background-image: repeating-linear-gradient(to left, rgb(18,105,202), rgb(0,242,96));
+  background-size: 200% 200%;
+  background-position: 100% 100%;
+  text-align      : center;
+  height          : 30px;
+  line-height     : 30px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.menu .menu-items {
+  max-height   : 500px;
+  overflow-y   : auto;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.menu .menu-items .menu-item {
+  height          : 25px;
+  display         : block;
+  background-color: #2a2c31; 
+  filter          : alpha(opacity=90);
+  opacity         : 0.75;
+  line-height     : 25px;
+  color           : #ffffff;
+  text-align      : center;
+  text-opacity    : 1.0;
+  opacity-text    : 1.0;
+  padding-left    : 3px;
+  padding-right   : 3px;
+}
+
+.menu .menu-items .menu-item.selected {
+  background-color: #635C5C;
+  filter          : alpha(opacity=90);
+  color           : #ffffff;
+  text-align      : center;
+  opacity         : 0.75;
+  /*border-bottom   : 1px solid #2abde9;*/
+  border-bottom        : 1px solid;
+  border-image-source  : linear-gradient(45deg, rgb(18,105,202), rgb(0,242,96));
+  border-image-slice   : 1;
+}
+
+.menu .menu-items .menu-item.selected input {
+  background-color: transparent;
+  color           : #ffffff;
+  text-align      : center;
+  border          : none;
+  outline         : none;
+  width           : 20px;
+}

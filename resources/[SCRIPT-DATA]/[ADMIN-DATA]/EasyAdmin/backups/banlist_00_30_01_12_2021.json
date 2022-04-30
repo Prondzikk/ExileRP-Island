@@ -1,0 +1,31 @@
+[
+    {
+        "reason": "45 ( Gracz: Butter ), Zablokowany przez: Spawarka",
+        "identifiers": [
+            "steam:110000142704f56",
+            "license:d306231c7c6476f0a851c288f09980660f199055",
+            "discord:554663635616661514",
+            "license2:d306231c7c6476f0a851c288f09980660f199055",
+            "ip:94.134.104.162"
+        ],
+        "banner": "Spawarka",
+        "expire": 1638725257,
+        "banid": 1,
+        "name": "Butter"
+    },
+    {
+        "identifiers": [
+            "steam:11000013b93192e",
+            "license:3aaaa2d00e1ccf89f189c93030195dae562eeade",
+            "discord:769178408348286976",
+            "fivem:4134452",
+            "license2:3aaaa2d00e1ccf89f189c93030195dae562eeade",
+            "ip:188.147.99.67"
+        ],
+        "reason": "47 ( Gracz: Siemek ), Zablokowany przez: nomercy",
+        "banid": 2,
+        "expire": 1638348971,
+        "banner": "nomercy",
+        "name": "Siemek"
+    }
+]

@@ -1,0 +1,42 @@
+Config = {}
+
+Config.Locale = 'pl'
+
+Config.pedList = {
+	'a_m_o_genstreet_01',
+	'u_m_y_abner',
+	'a_c_shepherd',
+	'a_m_y_downtown_01',
+	'mp_m_g_vagfun_01',
+	'a_m_m_afriamer_01',
+	'cs_dreyfuss',
+	's_m_y_dealer_01',
+	'a_c_husky',
+	'a_c_chop',
+	'g_m_y_strpunk_02',
+	'a_m_m_soucent_02',
+	'a_m_m_og_boss_01',
+	's_m_m_hairdress_01',
+	'rhesus',
+	'squidgameworker',
+	'a_c_retriever',
+	'RoninB',
+	'babyGirl',
+	'babyGirl2',
+	'babyp',
+	'VagosBaby',
+	'spn53',
+	'mai',
+	'DanteNowy',
+	'DanteEdit',
+	'DanteAvi',
+	'a_c_mtlion',
+	'Santaclaus',
+	--- ZWIERZĘTA
+	'a_c_boar',
+	'a_c_cow',
+	'a_c_coyote',
+	'a_c_deer',
+	'a_c_mtlion',
+	'a_c_pig',
+}

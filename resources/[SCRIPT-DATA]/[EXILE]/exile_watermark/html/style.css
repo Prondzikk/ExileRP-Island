@@ -1,0 +1,229 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700');
+* {padding: 0; margin: 0; box-sizing: border-box; font-family: 'Roboto', sans-serif;}
+body{
+    background-size: cover;
+    overflow: hidden;
+}
+#hud{
+    position: absolute;
+    width: 17vh;
+    height: 5vh;
+    right: 3vh;
+    top: 5.8vh;
+    border-radius: 1vh;
+    
+}
+#game_date{
+    position: absolute;
+    right: 3vh;
+    width: 4.4vh;
+    top: 4.4vh;
+    font-size: 11px;
+    color: #f8f8f8;
+}
+#game_id{
+    position: absolute;
+    right: 9.8vh;
+    width: 4.4vh;
+    top: 10.6vh;
+    font-size: 11px;
+    color: #f8f8f8;
+}
+#players_count{
+    position: absolute;
+    right: 5.0vh;
+    width: 4.4vh;
+    top: 10.6vh;
+    font-size: 11px;
+    text-align: right;
+    color: #f8f8f8;
+}
+#battery_img{
+    position: absolute;
+    right: 10.1vh;
+    width: 4.4vh;
+    top: 4.2vh;
+}
+#slot1img >img{
+    position: absolute;
+    right: 15.2vh;
+    top: 6.6vh;
+    width: 1.6vh;
+}
+#slot2img >img{
+    position: absolute;
+    right: 15.2vh;
+    top: 8.7vh;
+    width: 1.5vh;
+}
+#slot3img >img{
+    position: absolute;
+    right: 15.2vh;
+    top: 10.8vh;
+    width: 1.5vh;
+}
+#slot4img >img{
+    position: absolute;
+    right: 15.2vh;
+    top: 12.9vh;
+    width: 1.5vh;
+}
+#slot5img >img{
+    position: absolute;
+    right: 15.2vh;
+    top: 17.1vh;
+    width: 1.5vh;
+}
+#slot6img >img{
+    position: absolute;
+    right: 15.2vh;
+    top: 15.0vh;
+    width: 1.5vh;
+}
+
+#slot1{
+    right: -1vh;
+    top: 0.8vh;
+    position: absolute;
+}
+#slot2{
+    right: -1vh;
+    top: 2.8vh;
+    position: absolute;
+}
+#slot3{
+    right: -1vh;
+    top: 5.0vh;
+    position: absolute;
+}
+#slot4{
+    right: -1vh;
+    top: 7.2vh;
+    position: absolute;
+}
+#slot5{
+    right: -1vh;
+    top: 11.6vh;
+    position: absolute;
+}
+#slot6{
+    right: -1vh;
+    top: 9.4vh;
+    position: absolute;
+}
+#servicesCount{
+    position: absolute;
+    width: 350px;
+    text-align: center;
+    right: 0px;
+    top: -25px;
+}
+.servicesString{
+    font-family: 'Roboto';
+    color: white;
+    font-size: 13px;
+}
+.vert-stat{
+	border-radius: 20vh;
+	width: 15vh;
+	height: 1.5vh;
+	position: relative;
+	overflow: hidden;
+	transform: scale(0.68);
+    background-color: rgba(88, 88, 88, 0.1);
+}
+.vert-stat1{
+	border-radius: 20vh;
+	width: 15vh;
+	height: 1.5vh;
+	position: relative;
+	overflow: hidden;
+	transform: scale(0.68);
+}
+.vert-stat1 img{
+	width: 50%;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.vert-stat .bg{
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+}
+.vert-stat1 .bg1{
+	height: 100%;
+	width: 10%;
+	position: absolute;
+	bottom: 0;
+}
+
+.vert-stat img{
+	width: 50%;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
+
+ul#hud_status {
+    display: block;
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+ul#hud_status > li:not(:last-child) {
+    margin: 0 5px 0 0;
+}
+
+ul#hud_status li {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    background: rgba( 0, 0, 0, 0.8 );
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 20px;
+    border-radius: 7px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    /*transform: skewX(-7deg);*/
+}
+
+ul#hud_status li span {
+    content: '';
+    display: block;
+    position: absolute;
+    width: 4px;
+    bottom: 0;
+    right: 0;
+    border-radius: 7px;
+}
+
+ul#hud_status li#health span {
+    background: #ff0004;
+}
+
+ul#hud_status li#hunger span {
+    background: #ff6208;
+}
+
+ul#hud_status li#water span {
+    background: #0089f2;
+}
+
+ul#hud_status li#voice span {
+    background: #f700ff;
+}
+
+ul#hud_status li#fuel span {
+    background: #f89c40;
+}

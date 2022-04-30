@@ -1,0 +1,1517 @@
+[
+    {
+        "name": "morawsky",
+        "reason": "troll ( Gracz: morawsky ), Zablokowany przez: nomercy",
+        "identifiers": [
+            "steam:110000102582007",
+            "ip:31.61.182.214"
+        ],
+        "banner": "nomercy",
+        "expire": 10444633200,
+        "banid": 2
+    },
+    {
+        "name": "Wydatek",
+        "reason": "troll ( Gracz: Wydatek ), Zablokowany przez: Zonkill",
+        "identifiers": [
+            "steam:11000013d325a93",
+            "ip:81.219.118.210"
+        ],
+        "banner": "Zonkill",
+        "expire": 10444633200,
+        "banid": 5
+    },
+    {
+        "name": "Brekdance.Bigsm",
+        "reason": "1.1 ( Gracz: Brekdance.Bigsm ), Zablokowany przez: Zonkill",
+        "identifiers": [
+            "steam:110000140415384",
+            "license:677a5eec0aae095bf44624d609ced850bab40add",
+            "discord:869961555532468245",
+            "license2:677a5eec0aae095bf44624d609ced850bab40add",
+            "ip:37.30.96.12"
+        ],
+        "banner": "Zonkill",
+        "expire": 10444633200,
+        "banid": 18
+    },
+    {
+        "name": "MASELKO TV",
+        "reason": "troll ( Gracz: MASELKO TV ), Zablokowany przez: Spawarka",
+        "identifiers": [
+            "steam:110000136fc5e2c",
+            "license:673642594fc48f3db23f4c35d762c9f8ab5e62a4",
+            "xbl:2535429599144889",
+            "live:985154942692955",
+            "discord:530755685890261003",
+            "license2:7b6359d7b0c36691df9427cee69ff8f86deffbcb",
+            "ip:95.41.155.226"
+        ],
+        "banner": "Spawarka",
+        "expire": 10444633200,
+        "banid": 20
+    },
+    {
+        "name": "Morela",
+        "reason": "troll ( Gracz: Morela ), Zablokowany przez: GabroPL",
+        "identifiers": [
+            "steam:11000011cd77e6b",
+            "license:02c2cd6b8826988c0320b6fbfb1a2372c0b0708a",
+            "xbl:2535406847364256",
+            "live:844425074786861",
+            "discord:364756967010598912",
+            "license2:02c2cd6b8826988c0320b6fbfb1a2372c0b0708a",
+            "ip:78.88.170.61"
+        ],
+        "banner": "GabroPL",
+        "expire": 10444633200,
+        "banid": 23
+    },
+    {
+        "name": "Frankiewics",
+        "reason": "? ( Gracz: Frankiewics ), Zablokowany przez: Mefuu",
+        "identifiers": [
+            "steam:110000134796f36",
+            "license:df46755bb1b7898136c7efd2a34107ab20855e76",
+            "xbl:2535408833621251",
+            "live:1055521395456989",
+            "discord:540619449351536647",
+            "fivem:2431178",
+            "license2:df46755bb1b7898136c7efd2a34107ab20855e76",
+            "ip:84.10.231.146"
+        ],
+        "banner": "Mefuu",
+        "expire": 10444633200,
+        "banid": 25
+    },
+    {
+        "name": "Hola",
+        "reason": "Działanie na szkode serwera - Brak możliwości odwołania ( Gracz: Hola ), Zablokowany przez: Macher",
+        "identifiers": [
+            "steam:1100001413f19ea",
+            "license:922ce534a9f8011a3c92da9263cc557138b9c1cd",
+            "xbl:2535454069196549",
+            "live:985154562824533",
+            "discord:709760928081641542",
+            "license2:922ce534a9f8011a3c92da9263cc557138b9c1cd",
+            "ip:31.183.148.185"
+        ],
+        "banner": "Macher",
+        "expire": 10444633200,
+        "banid": 28
+    },
+    {
+        "name": "Bandziorek",
+        "reason": "TE FAKTURKE TO SE MOZESZ W DUPE WSADZIC ( Gracz: Bandziorek ), Zablokowany przez: Zonkill",
+        "identifiers": [
+            "steam:11000013cae8100",
+            "license:7c02bc6fe186f6d5eac5e3b7e2a6edd5ab4eda03",
+            "xbl:2535420826900736",
+            "live:985154323316382",
+            "discord:557489345578139679",
+            "license2:7c02bc6fe186f6d5eac5e3b7e2a6edd5ab4eda03",
+            "ip:78.11.165.108"
+        ],
+        "banner": "Zonkill",
+        "expire": 10444633200,
+        "banid": 29
+    },
+    {
+        "name": "SeksownyIgorek69",
+        "reason": "1.1 ( Gracz: SeksownyIgorek69 ), Zablokowany przez: Spawarka",
+        "identifiers": [
+            "steam:110000114d6e20e",
+            "license:742ecb3e761c582f7d60a483754aec639a9fbcac",
+            "xbl:2535409161160955",
+            "live:985158036656163",
+            "discord:358502564121018380",
+            "license2:742ecb3e761c582f7d60a483754aec639a9fbcac",
+            "ip:188.137.43.41"
+        ],
+        "banner": "Spawarka",
+        "expire": 10444633200,
+        "banid": 30
+    },
+    {
+        "name": "Marcin",
+        "reason": "kopiowanie itemów ( Gracz: Marcin ), Zablokowany przez: Oskarek",
+        "identifiers": [
+            "steam:11000013f3d430b",
+            "license:6ebcfb9e721d95e4f7f43958972d5d304ee14242",
+            "live:914798716376394",
+            "discord:690712227610886206",
+            "fivem:2435800",
+            "license2:6ebcfb9e721d95e4f7f43958972d5d304ee14242",
+            "ip:88.156.136.99"
+        ],
+        "banner": "Oskarek",
+        "expire": 10444633200,
+        "banid": 35
+    },
+    {
+        "name": "patryczek024",
+        "reason": "kopiowanie itemów ( Gracz: patryczek024 ), Zablokowany przez: Złomuś",
+        "identifiers": [
+            "steam:1100001415b7a21",
+            "license:72d968c3b0967c4e2d26c5353a6c3a4f335dc435",
+            "xbl:2535428569282387",
+            "live:844425257292184",
+            "discord:616710830066761729",
+            "license2:72d968c3b0967c4e2d26c5353a6c3a4f335dc435",
+            "ip:88.156.139.21"
+        ],
+        "banner": "Złomuś",
+        "expire": 10444633200,
+        "banid": 52
+    },
+    {
+        "name": "VENDIIPL",
+        "reason": "troll ( Gracz: VENDIIPL ), Zablokowany przez: Spawarka",
+        "identifiers": [
+            "steam:11000011ab33ff9",
+            "license:68d92e7f2f6d3b69254d985cde67afb2f2a6f074",
+            "xbl:2535471878373403",
+            "live:914798132967819",
+            "discord:414844771782230017",
+            "fivem:2105034",
+            "license2:68d92e7f2f6d3b69254d985cde67afb2f2a6f074",
+            "ip:185.186.152.61"
+        ],
+        "banner": "Spawarka",
+        "expire": 10444633200,
+        "banid": 40
+    },
+    {
+        "name": ".Zibi",
+        "reason": "troll ( Gracz: .Zibi ), Zablokowany przez: Mefuu",
+        "identifiers": [
+            "steam:1100001190c55cc",
+            "license:4e6c66b7f5f8de7ebc53c61fb41dad19ef25b435",
+            "xbl:2535451360350860",
+            "live:844424998649757",
+            "discord:823456421772263444",
+            "license2:4e6c66b7f5f8de7ebc53c61fb41dad19ef25b435",
+            "ip:77.65.82.139"
+        ],
+        "banner": "Mefuu",
+        "expire": 10444633200,
+        "banid": 50
+    },
+    {
+        "name": "patryczek024",
+        "reason": "kopiowanie itemow ( Gracz: patryczek024 ), Zablokowany przez: Zonkill",
+        "identifiers": [
+            "steam:1100001415b7a21",
+            "license:72d968c3b0967c4e2d26c5353a6c3a4f335dc435",
+            "xbl:2535428569282387",
+            "live:844425257292184",
+            "discord:616710830066761729",
+            "license2:72d968c3b0967c4e2d26c5353a6c3a4f335dc435",
+            "ip:88.156.139.21"
+        ],
+        "banner": "Zonkill",
+        "expire": 10444633200,
+        "banid": 52
+    },
+    {
+        "name": "Mefedron cl_opor-zero jest",
+        "reason": "troll ( Gracz: Mefedron cl_opor-zero jest ), Zablokowany przez: Spawarka",
+        "identifiers": [
+            "steam:11000014968f39a",
+            "license:4ad521c3e29b9c7a7a8ab87cb22c1eb025caea64",
+            "discord:875433079727083601",
+            "license2:4ad521c3e29b9c7a7a8ab87cb22c1eb025caea64",
+            "ip:83.29.164.82"
+        ],
+        "banner": "Spawarka",
+        "expire": 10444633200,
+        "banid": 53
+    },
+    {
+        "name": "Czołówka",
+        "reason": "Troll. n-word, p-word ( Gracz: Czołówka ), Zablokowany przez: SevoX",
+        "identifiers": [
+            "steam:110000132026900",
+            "license:387e3dbfac8364133f9e15d510f68411dbdeb444",
+            "discord:469952737229013013",
+            "license2:387e3dbfac8364133f9e15d510f68411dbdeb444",
+            "ip:89.174.202.79"
+        ],
+        "banner": "SevoX",
+        "expire": 10444633200,
+        "banid": 57
+    },
+    {
+        "name": "nizy35",
+        "reason": "n word ( Gracz: nizy35 ), Zablokowany przez: breakdance.adi",
+        "identifiers": [
+            "steam:11000014802ffe3",
+            "license:4cc3f33d2a066f51fd314f0f6c2ec05cac594afa",
+            "fivem:2912840",
+            "license2:4cc3f33d2a066f51fd314f0f6c2ec05cac594afa",
+            "ip:185.21.87.82"
+        ],
+        "banner": "breakdance.adi",
+        "expire": 10444633200,
+        "banid": 63
+    },
+    {
+        "name": "Liban",
+        "reason": "trol ( Gracz: Liban ), Zablokowany przez: Gregori",
+        "identifiers": [
+            "steam:110000116abf394",
+            "license:dfefe4b5c8af709491f32b3f9cc20885d8fd0623",
+            "discord:650273982292951041",
+            "ip:89.64.57.236"
+        ],
+        "banner": "Gregori",
+        "expire": 10444633200,
+        "banid": 65
+    },
+    {
+        "name": "K4",
+        "reason": "1.1 ( Gracz: K4 ), Zablokowany przez: Spawarka",
+        "identifiers": [
+            "steam:11000014205f3ce",
+            "license:cfe5f60751a70f5fb64f788d53ff50a034162ceb",
+            "discord:510561781895397397",
+            "license2:cfe5f60751a70f5fb64f788d53ff50a034162ceb",
+            "ip:77.65.88.136"
+        ],
+        "banner": "Spawarka",
+        "expire": 10444633200,
+        "banid": 69
+    },
+    {
+        "name": "Termiczny",
+        "reason": "Troll ( Gracz: Termiczny ), Zablokowany przez: SevoX",
+        "identifiers": [
+            "steam:11000013d0fe46e",
+            "license:3c6a6f6f520376d490c577eed4fc40384c03f47c",
+            "xbl:2535409501062697",
+            "live:844425487096061",
+            "discord:501367330836578314",
+            "license2:77048d1c38abe055b3fb1c9bacdcab687d4e9abf",
+            "ip:185.21.86.201"
+        ],
+        "banner": "SevoX",
+        "expire": 10444633200,
+        "banid": 73
+    },
+    {
+        "name": "Klaudian Klaudiusz",
+        "reason": "Troll ( Gracz: Klaudian Klaudiusz ), Zablokowany przez: SevoX",
+        "identifiers": [
+            "steam:1100001180914fe",
+            "license:3c96af28ebe27074c41a9a90be327ee6abe2f984",
+            "live:844425122305374",
+            "discord:610909664254885898",
+            "license2:3c96af28ebe27074c41a9a90be327ee6abe2f984",
+            "ip:82.139.44.181"
+        ],
+        "banner": "SevoX",
+        "expire": 10444633200,
+        "banid": 74
+    },
+    {
+        "name": "dudusss 144hz",
+        "reason": "Troll ( Gracz: dudusss 144hz ), Zablokowany przez: SevoX",
+        "identifiers": [
+            "steam:110000118d3211d",
+            "license:16050a86fca616af584e9ac55681cb83432a0e3a",
+            "xbl:2535454940217700",
+            "live:914798431201733",
+            "discord:571384465272864781",
+            "ip:89.151.39.131"
+        ],
+        "banner": "SevoX",
+        "expire": 10444633200,
+        "banid": 75
+    },
+    {
+        "name": "Robur WK",
+        "reason": "troll ( Gracz: Robur WK ), Zablokowany przez: Spawarka",
+        "identifiers": [
+            "steam:110000118734b7f",
+            "license:4931c1495a60b95407b4ed1a7b2332a9362d3b36",
+            "discord:775372275301744650",
+            "fivem:3397707",
+            "license2:d56045e4e72e6b675be34347564f43527a1582d3",
+            "ip:79.163.181.212"
+        ],
+        "banner": "Spawarka",
+        "expire": 10444633200,
+        "banid": 93
+    },
+    {
+        "name": "Fuziak PL",
+        "reason": "Granie crime na medyku, Lekceważące zachowanie w stosunku do administracji. ( Gracz: Fuziak PL ), Zablokowany przez: SevoX",
+        "identifiers": [
+            "steam:11000013c0b066b",
+            "license:643b573a48b1b39e102fa220f059486a04c1afe9",
+            "xbl:2535418346065749",
+            "live:844425390083769",
+            "discord:670677704483536896",
+            "license2:643b573a48b1b39e102fa220f059486a04c1afe9",
+            "ip:194.42.110.140"
+        ],
+        "banner": "SevoX",
+        "expire": 10444633200,
+        "banid": 103
+    },
+    {
+        "name": "EZ",
+        "reason": "troll ( Gracz: EZ ), Zablokowany przez: Zonkill",
+        "identifiers": [
+            "steam:11000014305abc1",
+            "license:6cf15a9c8267f65f4d95d737449fc24ab8f0278a",
+            "xbl:2535462067763373",
+            "live:985154864252068",
+            "discord:840259800222531584",
+            "license2:6cf15a9c8267f65f4d95d737449fc24ab8f0278a",
+            "ip:91.225.179.205"
+        ],
+        "banner": "Zonkill",
+        "expire": 10444633200,
+        "banid": 105
+    },
+    {
+        "name": "suczini",
+        "reason": "troll ( Gracz: suczini ), Zablokowany przez: Zonkill",
+        "identifiers": [
+            "steam:110000137539353",
+            "license:e02c16e0201f6afdd28910e2145cbf58249afc80",
+            "discord:897200327596576808",
+            "license2:e02c16e0201f6afdd28910e2145cbf58249afc80",
+            "ip:194.28.48.61"
+        ],
+        "banner": "Zonkill",
+        "expire": 10444633200,
+        "banid": 106
+    },
+    {
+        "name": "Snzxy",
+        "reason": "Nie określono przyczyny ( Gracz: Snzxy ), Zablokowany przez: Gregori",
+        "identifiers": [
+            "steam:1100001138305ca",
+            "license:2d94158e1a11d3df02cd4f7c9ebfbca7ef124e8f",
+            "xbl:2535430262017197",
+            "live:1055518438004946",
+            "discord:475698714657292288",
+            "license2:2d94158e1a11d3df02cd4f7c9ebfbca7ef124e8f",
+            "ip:79.189.163.33"
+        ],
+        "banner": "Gregori",
+        "expire": 10444633200,
+        "banid": 109
+    },
+    {
+        "name": "Temper",
+        "reason": "troll ( Gracz: Temper ), Zablokowany przez: nomercy",
+        "identifiers": [
+            "steam:11000013b371254",
+            "license:36588b2d9d07b9cf57f95a1bb8b40572312f6ff1",
+            "xbl:2535418587325244",
+            "live:914798395283354",
+            "discord:533639887136751616",
+            "license2:c47ea84bee12d440bbe0d170b479c05eb3566257",
+            "ip:79.191.84.240"
+        ],
+        "banner": "nomercy",
+        "expire": 10444633200,
+        "banid": 116
+    },
+    {
+        "name": ".....",
+        "reason": "troll ( Gracz: ..... ), Zablokowany przez: Oskarek",
+        "identifiers": [
+            "steam:110000148bac74b",
+            "license:6fec199646cde014f52f5847d9f17d0dc9dcd574",
+            "discord:515963576704303105",
+            "license2:6fec199646cde014f52f5847d9f17d0dc9dcd574",
+            "ip:37.47.171.16"
+        ],
+        "banner": "Oskarek",
+        "expire": 10444633200,
+        "banid": 117
+    },
+    {
+        "name": "Smerf",
+        "reason": "banroom ( Gracz: Smerf ), Zablokowany przez: SevoX",
+        "identifiers": [
+            "steam:110000141d16e41",
+            "license:26f6b5f674c4035e003da543aec5693477208acb",
+            "live:914798615919209",
+            "discord:691730789603475466",
+            "license2:26f6b5f674c4035e003da543aec5693477208acb",
+            "ip:81.15.157.236"
+        ],
+        "banner": "SevoX",
+        "expire": 10444633200,
+        "banid": 121
+    },
+    {
+        "name": "Rudasek",
+        "reason": "troll ( Gracz: Rudasek ), Zablokowany przez: SHowwMiCharakter",
+        "identifiers": [
+            "steam:11000014140ed77",
+            "license:4246edd33e140337b9b180a50e204d2b57261029",
+            "xbl:2535437545004567",
+            "live:985154446869286",
+            "discord:713427099246919751",
+            "license2:4246edd33e140337b9b180a50e204d2b57261029",
+            "ip:109.241.25.100"
+        ],
+        "banner": "SHowwMiCharakter",
+        "expire": 10444633200,
+        "banid": 126
+    },
+    {
+        "name": "chiko",
+        "reason": "Cheaty ( Gracz: chiko ), Zablokowany przez: SevoX",
+        "identifiers": [
+            "steam:11000014602d41e",
+            "license:629e6d51472776627d262c7b19ffbaaef7addf0e",
+            "xbl:2535414611401824",
+            "live:844425473338848",
+            "discord:573497535654789120",
+            "license2:629e6d51472776627d262c7b19ffbaaef7addf0e",
+            "ip:84.118.1.227"
+        ],
+        "banner": "SevoX",
+        "expire": 10444633200,
+        "banid": 132
+    },
+    {
+        "name": "Filiposz",
+        "reason": "Nie określono przyczyny ( Gracz: Filiposz ), Zablokowany przez: Gabrooo",
+        "identifiers": [
+            "steam:11000011b22f778",
+            "license:ffca67f94249b75f3e414059aeaa14b00cf4e274",
+            "xbl:2535441304611504",
+            "live:914798496723803",
+            "discord:431841179269595167",
+            "license2:ffca67f94249b75f3e414059aeaa14b00cf4e274",
+            "ip:89.161.78.135"
+        ],
+        "banner": "Gabrooo",
+        "expire": 10444633200,
+        "banid": 137
+    },
+    {
+        "name": "Julciaaa",
+        "reason": "Nie określono przyczyny ( Gracz: Julciaaa ), Zablokowany przez: SevoX",
+        "identifiers": [
+            "steam:11000013741c457",
+            "license:519caf98802e28a822c174c171df635a5204a5f7",
+            "xbl:2535460449394096",
+            "live:1055522424121232",
+            "discord:770549206795419669",
+            "license2:519caf98802e28a822c174c171df635a5204a5f7",
+            "ip:176.111.123.164"
+        ],
+        "banner": "SevoX",
+        "expire": 10444633200,
+        "banid": 138
+    },
+    {
+        "name": "Maajcia",
+        "reason": "Nie określono przyczyny ( Gracz: Maajcia ), Zablokowany przez: SevoX",
+        "identifiers": [
+            "steam:11000011d1bfc8f",
+            "license:9dbc550c42cfa3c78927b0a2651c48bd9ec5c062",
+            "discord:518690869046542337",
+            "license2:9dbc550c42cfa3c78927b0a2651c48bd9ec5c062",
+            "ip:89.64.49.93"
+        ],
+        "banner": "SevoX",
+        "expire": 10444633200,
+        "banid": 140
+    },
+    {
+        "name": "dotangatrzeba2.podłodzianin",
+        "reason": "45 ( Gracz: dotangatrzeba2.podłodzianin ), Zablokowany przez: Gregori",
+        "identifiers": [
+            "steam:110000140c0979d",
+            "license:cc2899a45ae30d8116816b315b0c31d9bcdf5bb0",
+            "xbl:2535406517577822",
+            "live:844425075685561",
+            "discord:380385211667447808",
+            "fivem:3766905",
+            "license2:cc2899a45ae30d8116816b315b0c31d9bcdf5bb0",
+            "ip:31.183.169.211"
+        ],
+        "banner": "Gregori",
+        "expire": 10444633200,
+        "banid": 142
+    },
+    {
+        "name": "filpek",
+        "reason": "Nie określono przyczyny ( Gracz: filpek ), Zablokowany przez: filipek.lp",
+        "identifiers": [
+            "steam:11000013b35e6a8",
+            "license:633dc27d5aa60e09bb215d24bac39576a910271c",
+            "xbl:2535405145561429",
+            "live:844425141329308",
+            "discord:452905472748552212",
+            "license2:633dc27d5aa60e09bb215d24bac39576a910271c",
+            "ip:91.207.127.196"
+        ],
+        "banner": "filipek.lp",
+        "expire": 10444633200,
+        "banid": 144
+    },
+    {
+        "name": "stary ez",
+        "reason": "Nie określono przyczyny ( Gracz: stary ez ), Zablokowany przez: Mefuu",
+        "identifiers": [
+            "steam:110000136ff7395",
+            "license:4ba0ae14c8312f3f9a63aba33661f43ca380d210",
+            "discord:889512228171161632",
+            "license2:4ba0ae14c8312f3f9a63aba33661f43ca380d210",
+            "ip:85.198.195.190"
+        ],
+        "banner": "Mefuu",
+        "expire": 10444633200,
+        "banid": 153
+    },
+    {
+        "name": "kangurek23",
+        "reason": "Nie określono przyczyny ( Gracz: kangurek23 ), Zablokowany przez: WIsimito",
+        "identifiers": [
+            "steam:1100001432f7b86",
+            "license:cd66cd14e6c61df698dda7e77b9d688c96e14e03",
+            "xbl:2535468831844674",
+            "live:1055518825404365",
+            "discord:765955836379922442",
+            "license2:cd66cd14e6c61df698dda7e77b9d688c96e14e03",
+            "ip:46.205.203.249"
+        ],
+        "banner": "WIsimito",
+        "expire": 10444633200,
+        "banid": 156
+    },
+    {
+        "name": "Kapix2808",
+        "reason": "Nie określono przyczyny ( Gracz: Kapix2808 ), Zablokowany przez: filipek.lp",
+        "identifiers": [
+            "steam:110000148635a48",
+            "license:3f7190a398cf96fc9fc8db2e06c8b90d249bb62e",
+            "live:914798849300524",
+            "discord:533989494979035153",
+            "license2:949a18a4ab5ffa1bd920a90956dda0355c180385",
+            "ip:213.76.35.188"
+        ],
+        "banner": "filipek.lp",
+        "expire": 10444633200,
+        "banid": 157
+    },
+    {
+        "name": "BestiazWadowic",
+        "reason": "31 ( Gracz: BestiazWadowic ), Zablokowany przez: SHowwMiCharakter",
+        "identifiers": [
+            "steam:11000014561fa2a",
+            "license:3cd8da03c764917e905490e56b5619fe8283b6a1",
+            "discord:580759782038700032",
+            "license2:3cd8da03c764917e905490e56b5619fe8283b6a1",
+            "ip:185.124.118.241"
+        ],
+        "banner": "SHowwMiCharakter",
+        "expire": 10444633200,
+        "banid": 159
+    },
+    {
+        "name": "bombiasz-kacpejro",
+        "reason": "Nie określono przyczyny ( Gracz: bombiasz-kacpejro ), Zablokowany przez: filipek.lp",
+        "identifiers": [
+            "steam:11000011b67ef07",
+            "license:0d052bccb0415861b768f4db54139cf56a77fb6c",
+            "xbl:2535445142031770",
+            "live:844425081045492",
+            "discord:852076864079659018",
+            "fivem:996988",
+            "license2:0d052bccb0415861b768f4db54139cf56a77fb6c",
+            "ip:217.96.175.98"
+        ],
+        "banner": "filipek.lp",
+        "expire": 10444633200,
+        "banid": 160
+    },
+    {
+        "name": "japanese alcoholic.hv",
+        "reason": "Nie określono przyczyny ( Gracz: japanese alcoholic.hv ), Zablokowany przez: Mefuu",
+        "identifiers": [
+            "steam:11000011b743409",
+            "license:23ccc7522358dc395394a266f401865a5d2695c5",
+            "discord:299875740973793280",
+            "fivem:2794986",
+            "ip:5.104.254.229"
+        ],
+        "banner": "Mefuu",
+        "expire": 10444633200,
+        "banid": 161
+    },
+    {
+        "name": "3zaczym",
+        "reason": "Nie określono przyczyny ( Gracz: 3zaczym ), Zablokowany przez: SHowwMiCharakter",
+        "identifiers": [
+            "steam:110000145d6ee2f",
+            "license:ce941da20e36610f641768147d0a774bdd16558f",
+            "xbl:2535413318817016",
+            "live:844425270887342",
+            "discord:461455445672984577",
+            "license2:ce941da20e36610f641768147d0a774bdd16558f",
+            "ip:83.31.216.177"
+        ],
+        "banner": "SHowwMiCharakter",
+        "expire": 10444633200,
+        "banid": 165
+    },
+    {
+        "name": "oskarexz",
+        "reason": "Nie określono przyczyny ( Gracz: oskarexz ), Zablokowany przez: GabroooRU",
+        "identifiers": [
+            "steam:11000014685d5d7",
+            "license:bb7967f1db185394f0b47acdcd600d4c7d8db523",
+            "xbl:2535433822196447",
+            "live:914802127784785",
+            "discord:622120145355014157",
+            "license2:bb7967f1db185394f0b47acdcd600d4c7d8db523",
+            "ip:89.151.46.249"
+        ],
+        "banner": "GabroooRU",
+        "expire": 10444633200,
+        "banid": 167
+    },
+    {
+        "name": "Bartus",
+        "reason": "Nie określono przyczyny ( Gracz: Bartus ), Zablokowany przez: GabroooRU",
+        "identifiers": [
+            "steam:110000148161f8b",
+            "license:3676b8b2a9028004dc826d07d5c403eb432eb998",
+            "xbl:2535417930411676",
+            "live:1055521629602243",
+            "discord:610533709304692766",
+            "license2:3676b8b2a9028004dc826d07d5c403eb432eb998",
+            "ip:89.151.41.46"
+        ],
+        "banner": "GabroooRU",
+        "expire": 10444633200,
+        "banid": 169
+    },
+    {
+        "name": "xeo",
+        "reason": "Nie określono przyczyny ( Gracz: xeo ), Zablokowany przez: filipek.lp",
+        "identifiers": [
+            "steam:11000013d2f6a7c",
+            "license:511d0995aeb4de21e426354fc605a970bf92c639",
+            "xbl:2535431375750115",
+            "live:985154280279634",
+            "discord:500015515272740864",
+            "license2:59b22a6b4876fc29c7e6a5ba10c70e32d7680dab",
+            "ip:188.146.36.161"
+        ],
+        "banner": "filipek.lp",
+        "expire": 10444633200,
+        "banid": 171
+    },
+    {
+        "name": "Vediq",
+        "reason": "Nie określono przyczyny ( Gracz: Vediq ), Zablokowany przez: filipek.lp",
+        "identifiers": [
+            "steam:1100001378c3781",
+            "license:2f5391e673ed1101c5c5b8fbeb546d96b5b96991",
+            "xbl:2535450183828073",
+            "live:914798498359569",
+            "discord:499965316907008020",
+            "license2:2f5391e673ed1101c5c5b8fbeb546d96b5b96991",
+            "ip:188.146.40.141"
+        ],
+        "banner": "filipek.lp",
+        "expire": 10444633200,
+        "banid": 172
+    },
+    {
+        "name": "Kali",
+        "reason": "Nie określono przyczyny ( Gracz: Kali ), Zablokowany przez: SevoX2",
+        "identifiers": [
+            "steam:11000013e78fb5c",
+            "license:f0003c673f1f541c83f76eee1e585a08dbdf214d",
+            "xbl:2535466840146838",
+            "live:844425051333236",
+            "license2:f0003c673f1f541c83f76eee1e585a08dbdf214d",
+            "ip:188.125.152.127"
+        ],
+        "banner": "SevoX2",
+        "expire": 10444633200,
+        "banid": 179
+    },
+    {
+        "name": "PEGI",
+        "reason": "Nie określono przyczyny ( Gracz: PEGI ), Zablokowany przez: filipek.lp",
+        "identifiers": [
+            "steam:11000014531f9f8",
+            "license:049dc3571ef60a9d3b24fcd46fb89809590b5f09",
+            "xbl:2535453544678149",
+            "live:985154194116991",
+            "discord:901634936451252264",
+            "fivem:1481238",
+            "license2:049dc3571ef60a9d3b24fcd46fb89809590b5f09",
+            "ip:77.253.65.255"
+        ],
+        "banner": "filipek.lp",
+        "expire": 10444633200,
+        "banid": 182
+    },
+    {
+        "name": "PEGI",
+        "reason": "Nie określono przyczyny ( Gracz: PEGI ), Zablokowany przez: SevoX2",
+        "identifiers": [
+            "steam:11000014531f9f8",
+            "license:049dc3571ef60a9d3b24fcd46fb89809590b5f09",
+            "xbl:2535453544678149",
+            "live:985154194116991",
+            "discord:901634936451252264",
+            "fivem:1481238",
+            "license2:049dc3571ef60a9d3b24fcd46fb89809590b5f09",
+            "ip:77.253.65.255"
+        ],
+        "banner": "SevoX2",
+        "expire": 10444633200,
+        "banid": 183
+    },
+    {
+        "name": "ponczo loves p3gi",
+        "reason": "Nie określono przyczyny ( Gracz: ponczo loves p3gi ), Zablokowany przez: SevoX2",
+        "identifiers": [
+            "steam:110000144603d01",
+            "license:1939a73155167d2d6ed81cf2cf1627112e8a6f11",
+            "xbl:2535422680872587",
+            "live:844425492343211",
+            "discord:871112512727294063",
+            "fivem:1587153",
+            "license2:1939a73155167d2d6ed81cf2cf1627112e8a6f11",
+            "ip:89.64.55.129"
+        ],
+        "banner": "SevoX2",
+        "expire": 10444633200,
+        "banid": 184
+    },
+    {
+        "name": "mrozu",
+        "reason": "Nie określono przyczyny ( Gracz: mrozu ), Zablokowany przez: WIsimito",
+        "identifiers": [
+            "steam:110000140c02d29",
+            "license:564867552565238ae1574004590578958f5a696a",
+            "xbl:2535416525100657",
+            "live:844425449874600",
+            "discord:824178602123460628",
+            "license2:564867552565238ae1574004590578958f5a696a",
+            "ip:178.42.37.114"
+        ],
+        "banner": "WIsimito",
+        "expire": 10444633200,
+        "banid": 185
+    },
+    {
+        "name": "Jezus",
+        "reason": "Nie określono przyczyny ( Gracz: Jezus ), Zablokowany przez: Spawarka",
+        "identifiers": [
+            "steam:110000147da1628",
+            "license:7c0a92c743425bf3217bcd12bb680c0222d03a86",
+            "discord:877939209078456380",
+            "fivem:4571445",
+            "license2:b85844692e6ac3c24c6bc5e2b2467f7e00bd545a",
+            "ip:37.47.205.23"
+        ],
+        "banner": "Spawarka",
+        "expire": 10444633200,
+        "banid": 186
+    },
+    {
+        "name": "kumpel",
+        "reason": "Nie określono przyczyny ( Gracz: kumpel ), Zablokowany przez: SevoX2",
+        "identifiers": [
+            "steam:110000145895e21",
+            "license:9dd73accdd0ebdb7ca01a671cc24fdc4634eae37",
+            "xbl:2535406893298221",
+            "live:1055518980108950",
+            "discord:761660966001180703",
+            "license2:9dd73accdd0ebdb7ca01a671cc24fdc4634eae37",
+            "ip:91.246.66.59"
+        ],
+        "banner": "SevoX2",
+        "expire": 10444633200,
+        "banid": 189
+    },
+    {
+        "name": "Thomsen",
+        "reason": "Nie określono przyczyny ( Gracz: Thomsen ), Zablokowany przez: SevoX2",
+        "identifiers": [
+            "steam:11000013d6e9e8c",
+            "license:e022d5c85ff73ae480479cc606ebed98e6afdfb2",
+            "xbl:2535448915656817",
+            "live:914798219745505",
+            "discord:585160615035666447",
+            "license2:e022d5c85ff73ae480479cc606ebed98e6afdfb2",
+            "ip:45.155.149.82"
+        ],
+        "banner": "SevoX2",
+        "expire": 10444633200,
+        "banid": 192
+    },
+    {
+        "name": "ZUJNI PL",
+        "reason": "Nie określono przyczyny ( Gracz: ZUJNI PL ), Zablokowany przez: SevoX2",
+        "identifiers": [
+            "steam:110000144c97d6b",
+            "license:6854287c38cf3a88c9671e334ee81154557f9f8d",
+            "xbl:2535428938389570",
+            "live:1055519196179951",
+            "discord:513340378834010122",
+            "fivem:2398137",
+            "license2:6854287c38cf3a88c9671e334ee81154557f9f8d",
+            "ip:77.242.227.225"
+        ],
+        "banner": "SevoX2",
+        "expire": 10444633200,
+        "banid": 194
+    },
+    {
+        "name": "Biszkopt",
+        "reason": "33 ( Gracz: Biszkopt ), Zablokowany przez: SHowwMiCharakter",
+        "identifiers": [
+            "steam:11000014448591e",
+            "license:282d1835f6eb2ece2d2dabe2128a37aa5e793e78",
+            "discord:800708930082832425",
+            "license2:282d1835f6eb2ece2d2dabe2128a37aa5e793e78",
+            "ip:159.205.91.104"
+        ],
+        "banner": "SHowwMiCharakter",
+        "expire": 10444633200,
+        "banid": 195
+    },
+    {
+        "name": "Złomek",
+        "reason": "Nie określono przyczyny ( Gracz: Złomek ), Zablokowany przez: SevoX2",
+        "identifiers": [
+            "steam:110000116d2409a",
+            "license:38ae763a28b2ae23812a8991d9cc1b1c392e76c5",
+            "xbl:2535419052361097",
+            "live:985154417156185",
+            "discord:662405151776309268",
+            "license2:38ae763a28b2ae23812a8991d9cc1b1c392e76c5",
+            "ip:84.87.80.199"
+        ],
+        "banner": "SevoX2",
+        "expire": 10444633200,
+        "banid": 198
+    },
+    {
+        "name": "szybkie.raczki.modz3l",
+        "reason": "Nie określono przyczyny ( Gracz: szybkie.raczki.modz3l ), Zablokowany przez: matig786",
+        "identifiers": [
+            "steam:110000141d834f3",
+            "license:5928d4d7cf3ea0bf71143ab0788a36a1343de145",
+            "xbl:2535418681639301",
+            "live:1829581098846055",
+            "discord:561511487135547392",
+            "fivem:2354245",
+            "license2:5928d4d7cf3ea0bf71143ab0788a36a1343de145",
+            "ip:91.200.76.137"
+        ],
+        "banner": "matig786",
+        "expire": 10444633200,
+        "banid": 199
+    },
+    {
+        "name": "Kheef Ceef",
+        "reason": "45 ( Gracz: Kheef Ceef ), Zablokowany przez: Mefuu",
+        "identifiers": [
+            "steam:110000119e8abaa",
+            "license:1b1bc75bbebb423f1b83ddc98936407eaa282158",
+            "xbl:2535454924050303",
+            "live:844425124740294",
+            "discord:405430240785989634",
+            "license2:1b1bc75bbebb423f1b83ddc98936407eaa282158",
+            "ip:85.221.145.168"
+        ],
+        "banner": "Mefuu",
+        "expire": 10444633200,
+        "banid": 200
+    },
+    {
+        "name": "Hevi",
+        "reason": "Nie określono przyczyny ( Gracz: Hevi ), Zablokowany przez: Mefuu",
+        "identifiers": [
+            "steam:110000119ce746d",
+            "license:68bc98161afc6bd8cadd98b21c6c90d73a6ea3a4",
+            "discord:766357065937322035",
+            "license2:4b3a323dec316eeb087e02b8af22836ea450978f",
+            "ip:37.225.85.147"
+        ],
+        "banner": "Mefuu",
+        "expire": 10444633200,
+        "banid": 201
+    },
+    {
+        "name": "xd",
+        "reason": "45 ( Gracz: xd ), Zablokowany przez: Mefuu",
+        "identifiers": [
+            "steam:110000143040b42",
+            "license:52baf5a0228c1098ddd6b4f4264d20e7a7a201ab",
+            "discord:894624028873097216",
+            "fivem:4493827",
+            "license2:52baf5a0228c1098ddd6b4f4264d20e7a7a201ab",
+            "ip:176.221.125.13"
+        ],
+        "banner": "Mefuu",
+        "expire": 10444633200,
+        "banid": 207
+    },
+    {
+        "name": "xd",
+        "reason": "Nie określono przyczyny ( Gracz: xd ), Zablokowany przez: GabroooRU",
+        "identifiers": [
+            "steam:110000143040b42",
+            "license:52baf5a0228c1098ddd6b4f4264d20e7a7a201ab",
+            "discord:894624028873097216",
+            "fivem:4493827",
+            "license2:52baf5a0228c1098ddd6b4f4264d20e7a7a201ab",
+            "ip:176.221.125.13"
+        ],
+        "banner": "GabroooRU",
+        "expire": 10444633200,
+        "banid": 208
+    },
+    {
+        "name": "szczytny",
+        "reason": "Nie określono przyczyny ( Gracz: szczytny ), Zablokowany przez: MefuuAleTenSaspowy",
+        "identifiers": [
+            "steam:1100001440b2a69",
+            "license:b30946393158d5de0e9ed3d25eb545b59eb96b3f",
+            "xbl:2535464454872823",
+            "live:1055519237003731",
+            "discord:803255163266924585",
+            "license2:41bd359a4d8b23cbf302ac2fc910def57cabe0c0",
+            "ip:5.173.156.49"
+        ],
+        "banner": "MefuuAleTenSaspowy",
+        "expire": 10444633200,
+        "banid": 209
+    },
+    {
+        "name": "Franek",
+        "reason": "Nie określono przyczyny ( Gracz: Franek ), Zablokowany przez: MefuuAleTenSaspowy",
+        "identifiers": [
+            "steam:11000010a3b0ece",
+            "license:1c54ee8907044c3bf53523a9eff9b651b2d243fa",
+            "xbl:2533274953488685",
+            "live:914800658543421",
+            "discord:581465818953416704",
+            "fivem:1132426",
+            "license2:1c54ee8907044c3bf53523a9eff9b651b2d243fa",
+            "ip:213.5.150.69"
+        ],
+        "banner": "MefuuAleTenSaspowy",
+        "expire": 10444633200,
+        "banid": 227
+    },
+    {
+        "name": "Franek",
+        "reason": "Nie określono przyczyny ( Gracz: Franek ), Zablokowany przez: Gregori",
+        "identifiers": [
+            "steam:11000010a3b0ece",
+            "license:1c54ee8907044c3bf53523a9eff9b651b2d243fa",
+            "xbl:2533274953488685",
+            "live:914800658543421",
+            "discord:581465818953416704",
+            "fivem:1132426",
+            "license2:1c54ee8907044c3bf53523a9eff9b651b2d243fa",
+            "ip:213.5.150.69"
+        ],
+        "banner": "Gregori",
+        "expire": 10444633200,
+        "banid": 228
+    },
+    {
+        "name": "nikamilo",
+        "reason": "33 ( Gracz: nikamilo ), Zablokowany przez: Oskarek",
+        "identifiers": [
+            "steam:110000146516d53",
+            "license:d19fe4d311b901d28fa9982853114863ed68580c",
+            "discord:598996323378659338",
+            "license2:d19fe4d311b901d28fa9982853114863ed68580c",
+            "ip:85.193.198.148"
+        ],
+        "banner": "Oskarek",
+        "expire": 10444633200,
+        "banid": 231
+    },
+    {
+        "name": "Hudson",
+        "reason": "Nie określono przyczyny ( Gracz: Hudson ), Zablokowany przez: Oskarek",
+        "identifiers": [
+            "steam:11000010e643a9f",
+            "license:beb957395ab148ded6bca9d0fb5050774aa4c4e3",
+            "discord:391230760717254666",
+            "license2:abd4be8de11ddfdc1ee46b8df3ae9cc3e6e55556",
+            "ip:178.235.179.223"
+        ],
+        "banner": "Oskarek",
+        "expire": 10444633200,
+        "banid": 232
+    },
+    {
+        "name": "adept essy",
+        "reason": "33 ( Gracz: adept essy ), Zablokowany przez: SHowwMiCharakter",
+        "identifiers": [
+            "steam:11000011a3122db",
+            "license:2e3b722b3e9e76db92108fa335b9bebb5c9f0f3b",
+            "xbl:2535430011497106",
+            "live:914798976313699",
+            "discord:419871481284132905",
+            "license2:d8fbf93c3cd1cebbc95c59b2aef0baa9e9298141",
+            "ip:188.191.207.133"
+        ],
+        "banner": "SHowwMiCharakter",
+        "expire": 10444633200,
+        "banid": 252
+    },
+    {
+        "name": "Zwariowany kutas",
+        "reason": "Nie określono przyczyny ( Gracz: Zwariowany kutas ), Zablokowany przez: SevoX2",
+        "identifiers": [
+            "steam:110000116da722d",
+            "license:82e94b1bbea8114c4e8e0768e920d6ba2f5df7cf",
+            "discord:469018398035148800",
+            "license2:203bec6a289476fac313921598cb6681cb6b819b",
+            "ip:212.244.101.17"
+        ],
+        "banner": "SevoX2",
+        "expire": 10444633200,
+        "banid": 253
+    },
+    {
+        "name": "Zwariowany kutas",
+        "reason": "33 ( Gracz: Zwariowany kutas ), Zablokowany przez: SHowwMiCharakter",
+        "identifiers": [
+            "steam:110000116da722d",
+            "license:82e94b1bbea8114c4e8e0768e920d6ba2f5df7cf",
+            "discord:469018398035148800",
+            "license2:203bec6a289476fac313921598cb6681cb6b819b",
+            "ip:212.244.101.17"
+        ],
+        "banner": "SHowwMiCharakter",
+        "expire": 10444633200,
+        "banid": 254
+    },
+    {
+        "name": "mikibibi1515",
+        "reason": "33 ( Gracz: mikibibi1515 ), Zablokowany przez: SHowwMiCharakter",
+        "identifiers": [
+            "steam:110000148a98e62",
+            "license:8b51a741fa1735432c8a2a9a73ecf57682b98658",
+            "license2:8b51a741fa1735432c8a2a9a73ecf57682b98658",
+            "ip:185.234.233.133"
+        ],
+        "banner": "SHowwMiCharakter",
+        "expire": 10444633200,
+        "banid": 258
+    },
+    {
+        "name": "OchnikTV",
+        "reason": "Nie określono przyczyny ( Gracz: OchnikTV ), Zablokowany przez: GabroooRU",
+        "identifiers": [
+            "steam:110000132c65c9c",
+            "license:aa8ff91601e0f0be8466288ad3d9bd5ea7c738e2",
+            "xbl:2535417193409964",
+            "live:985154359891177",
+            "discord:435849718002876416",
+            "ip:176.221.124.8"
+        ],
+        "banner": "GabroooRU",
+        "expire": 10444633200,
+        "banid": 259
+    },
+    {
+        "name": "Dawideqq_Tv",
+        "reason": "Nie określono przyczyny ( Gracz: Dawideqq_Tv ), Zablokowany przez: GabroooRU",
+        "identifiers": [
+            "steam:110000136a10b61",
+            "license:b26349a96707bf54f15c906e0d1c8a9b8f0349eb",
+            "xbl:2535416047581115",
+            "live:844425391446037",
+            "discord:470911690762878998",
+            "license2:b26349a96707bf54f15c906e0d1c8a9b8f0349eb",
+            "ip:89.79.143.114"
+        ],
+        "banner": "GabroooRU",
+        "expire": 10444633200,
+        "banid": 260
+    },
+    {
+        "name": "Kapitan krolik68",
+        "reason": "Nie określono przyczyny ( Gracz: Kapitan krolik68 ), Zablokowany przez: GabroooRU",
+        "identifiers": [
+            "steam:11000014787bc5b",
+            "license:883aec72d086b42f8ad554142a76c14003d64c12",
+            "xbl:2535453701184110",
+            "live:985154816682136",
+            "fivem:2891234",
+            "license2:23fcb9dc661c272e728511845eedef339c8ce8f7",
+            "ip:37.47.244.170"
+        ],
+        "banner": "GabroooRU",
+        "expire": 10444633200,
+        "banid": 262
+    },
+    {
+        "name": "szybkakiwka.Mefju",
+        "reason": "Nie określono przyczyny ( Gracz: szybkakiwka.Mefju ), Zablokowany przez: SevoX2",
+        "identifiers": [
+            "steam:1100001471c00a6",
+            "license:18e1729731642b30bb0e94750182f7d9ee577f63",
+            "xbl:2535436440392905",
+            "live:985157420701869",
+            "discord:335846086751289344",
+            "license2:18e1729731642b30bb0e94750182f7d9ee577f63",
+            "ip:89.230.44.108"
+        ],
+        "banner": "SevoX2",
+        "expire": 10444633200,
+        "banid": 271
+    },
+    {
+        "name": "Siemek",
+        "reason": "33 ( Gracz: Siemek ), Zablokowany przez: SHowwMiCharakter",
+        "identifiers": [
+            "steam:11000013b93192e",
+            "license:3aaaa2d00e1ccf89f189c93030195dae562eeade",
+            "discord:769178408348286976",
+            "fivem:4134452",
+            "license2:3aaaa2d00e1ccf89f189c93030195dae562eeade",
+            "ip:188.147.100.236"
+        ],
+        "banner": "SHowwMiCharakter",
+        "expire": 10444633200,
+        "banid": 272
+    },
+    {
+        "name": "Bob",
+        "reason": "Nie określono przyczyny ( Gracz: Bob ), Zablokowany przez: Mefuu",
+        "identifiers": [
+            "steam:11000013696541e",
+            "license:6c8413000eba60eea742d0317e54cef073dc017c",
+            "xbl:2535441255107688",
+            "live:1055518680929588",
+            "discord:519579921656578087",
+            "license2:6c8413000eba60eea742d0317e54cef073dc017c",
+            "ip:91.236.84.50"
+        ],
+        "banner": "Mefuu",
+        "expire": 1637866188,
+        "banid": 275
+    },
+    {
+        "name": "xbeny",
+        "reason": "Nie określono przyczyny ( Gracz: xbeny ), Zablokowany przez: SevoX2",
+        "identifiers": [
+            "steam:110000146aa6530",
+            "license:881a10d27f492f6ae66480d9e018a4a5759744db",
+            "discord:632678255958294564",
+            "fivem:1281240",
+            "license2:881a10d27f492f6ae66480d9e018a4a5759744db",
+            "ip:37.128.75.168"
+        ],
+        "banner": "SevoX2",
+        "expire": 1637867862,
+        "banid": 276
+    },
+    {
+        "name": "xrefixpl",
+        "reason": "33 ( Gracz: xrefixpl ), Zablokowany przez: SHowwMiCharakter",
+        "identifiers": [
+            "steam:11000014073e5cc",
+            "license:75b2be3d35c1101251f19f0c17bffc62fcd604de",
+            "xbl:2535448702185751",
+            "live:914798377077417",
+            "discord:387344987727331330",
+            "license2:75b2be3d35c1101251f19f0c17bffc62fcd604de",
+            "ip:89.64.64.129"
+        ],
+        "banner": "SHowwMiCharakter",
+        "expire": 10444633200,
+        "banid": 280
+    },
+    {
+        "name": "Guciorek",
+        "reason": "Nie określono przyczyny ( Gracz: Guciorek ), Zablokowany przez: WIsimito",
+        "identifiers": [
+            "steam:11000011bb6cac7",
+            "license:7b673ceb2a2281cae9a60af657375e5b25c976e4",
+            "discord:484453640199995394",
+            "license2:7b673ceb2a2281cae9a60af657375e5b25c976e4",
+            "ip:37.249.177.65"
+        ],
+        "banner": "WIsimito",
+        "expire": 10444633200,
+        "banid": 281
+    },
+    {
+        "name": "EzClap",
+        "reason": "Nie określono przyczyny ( Gracz: EzClap ), Zablokowany przez: SHowwMiCharakter",
+        "identifiers": [
+            "steam:1100001408fcee9",
+            "license:b8dfbce05acbdb27fb94543b2e4b41fe23286c96",
+            "license2:b8dfbce05acbdb27fb94543b2e4b41fe23286c96",
+            "ip:83.20.227.135"
+        ],
+        "banner": "SHowwMiCharakter",
+        "expire": 1638552828,
+        "banid": 282
+    },
+    {
+        "name": "burt3k",
+        "reason": "47 ( Gracz: burt3k ), Zablokowany przez: Mefuu",
+        "identifiers": [
+            "steam:11000013606de6a",
+            "license:03827a5db51b12dab891a505dc97e2d52f42fa26",
+            "xbl:2535414080862786",
+            "live:1055518475160938",
+            "discord:307879768982814730",
+            "license2:93644a1032d872f3b90248483be7456a016e2708",
+            "ip:93.190.38.41"
+        ],
+        "banner": "Mefuu",
+        "expire": 1638029939,
+        "banid": 284
+    },
+    {
+        "name": "Pan Paweł",
+        "reason": "47 ( Gracz: Pan Paweł ), Zablokowany przez: SevoX",
+        "identifiers": [
+            "steam:11000011d0f76c4",
+            "license:7fb549e10020a30dcbc80585c2b17c56ac3a0f41",
+            "discord:723430222032011314",
+            "license2:7fb549e10020a30dcbc80585c2b17c56ac3a0f41",
+            "ip:5.173.12.75"
+        ],
+        "banner": "SevoX",
+        "expire": 10444633200,
+        "banid": 285
+    },
+    {
+        "name": "CostaUnikat",
+        "reason": "Nie określono przyczyny ( Gracz: CostaUnikat ), Zablokowany przez: matig786",
+        "identifiers": [
+            "steam:110000118b28fb1",
+            "license:66436e4a951ec348a0be7c18654dda7ef64e90f0",
+            "xbl:2535446381840377",
+            "live:985153942332607",
+            "discord:324617543174062081",
+            "license2:bf6237ce4b11aadee61268507c7fb9c7113dec26",
+            "ip:213.134.182.112"
+        ],
+        "banner": "matig786",
+        "expire": 1638056245,
+        "banid": 286
+    },
+    {
+        "name": "lel",
+        "reason": "Nie określono przyczyny ( Gracz: lel ), Zablokowany przez: matig786",
+        "identifiers": [
+            "steam:11000013d92f65f",
+            "license:4ae5a89c5782fc3c87e0f8703267da263d5157c6",
+            "discord:459439148105859073",
+            "license2:4ae5a89c5782fc3c87e0f8703267da263d5157c6",
+            "ip:89.74.108.172"
+        ],
+        "banner": "matig786",
+        "expire": 1638056261,
+        "banid": 287
+    },
+    {
+        "name": "Black1Energy",
+        "reason": "Nie określono przyczyny ( Gracz: Black1Energy ), Zablokowany przez: Spawarka",
+        "identifiers": [
+            "steam:11000013fc277db",
+            "license:fdfdb3f5a3852d9acfb8ba414e59dce84afd68a5",
+            "xbl:2535439834382556",
+            "live:914798097648039",
+            "discord:723137036386828288",
+            "license2:fdfdb3f5a3852d9acfb8ba414e59dce84afd68a5",
+            "ip:90.156.99.23"
+        ],
+        "banner": "Spawarka",
+        "expire": 10444633200,
+        "banid": 289
+    },
+    {
+        "name": "jojnt",
+        "reason": "47 ( Gracz: jojnt ), Zablokowany przez: Spawarka",
+        "identifiers": [
+            "steam:11000010d10efb1",
+            "license:b1430bde490495b0e03b89e5a2bf7fd857f65602",
+            "xbl:2535406056574192",
+            "live:914798021593625",
+            "discord:344193918125998080",
+            "license2:b1430bde490495b0e03b89e5a2bf7fd857f65602",
+            "ip:87.207.15.152"
+        ],
+        "banner": "Spawarka",
+        "expire": 1637853758,
+        "banid": 290
+    },
+    {
+        "name": "12 yo african kid",
+        "reason": "Nie określono przyczyny ( Gracz: 12 yo african kid ), Zablokowany przez: fcie",
+        "identifiers": [
+            "steam:11000013debd905",
+            "license:63431d3fd8dcafa80fcff537130fe5a4bf6c8c53",
+            "xbl:2535409691720252",
+            "live:844425146026608",
+            "discord:352086522528399374",
+            "license2:63431d3fd8dcafa80fcff537130fe5a4bf6c8c53",
+            "ip:89.229.153.104"
+        ],
+        "banner": "fcie",
+        "expire": 10444633200,
+        "banid": 292
+    },
+    {
+        "name": "Olus",
+        "reason": "Nie określono przyczyny ( Gracz: Olus ), Zablokowany przez: SHowwMiCharakter",
+        "identifiers": [
+            "steam:110000114a6968a",
+            "license:6d75aab08dbdd40c015d510c89b9351193a0ac15",
+            "xbl:2535422185810304",
+            "live:844425862152082",
+            "discord:484415214457192450",
+            "license2:edfbb858ecb48668d9b70310839fbe71cbe049e4",
+            "ip:178.235.181.210"
+        ],
+        "banner": "SHowwMiCharakter",
+        "expire": 10444633200,
+        "banid": 293
+    },
+    {
+        "name": "Tableta",
+        "reason": "Nie określono przyczyny ( Gracz: Tableta ), Zablokowany przez: Kubsio",
+        "identifiers": [
+            "steam:1100001440fecb9",
+            "license:abcba713630468c207fef79151a46984d0d324c9",
+            "discord:522854671824715827",
+            "license2:abcba713630468c207fef79151a46984d0d324c9",
+            "ip:89.151.36.85"
+        ],
+        "banner": "Kubsio",
+        "expire": 1638131409,
+        "banid": 295
+    },
+    {
+        "name": "Fabian",
+        "reason": "Nie określono przyczyny ( Gracz: Fabian ), Zablokowany przez: matig786",
+        "identifiers": [
+            "steam:110000118ecf983",
+            "license:373e6e3060502a16b98fa11660e0286a33c42d78",
+            "xbl:2535419648820636",
+            "live:914798188052130",
+            "discord:441663014303694848",
+            "license2:373e6e3060502a16b98fa11660e0286a33c42d78",
+            "ip:185.152.123.179"
+        ],
+        "banner": "matig786",
+        "expire": 1637875488,
+        "banid": 297
+    },
+    {
+        "name": "Groprinosin",
+        "reason": "Nie określono przyczyny ( Gracz: Groprinosin ), Zablokowany przez: SevoX",
+        "identifiers": [
+            "steam:11000013cde9d1a",
+            "license:426b9ecd3f36ce4797308b7771c64e422be0fbb5",
+            "discord:600684072070807554",
+            "license2:ff5e4be80bc5c4b55a7560ab7c346f158cf30ea0",
+            "ip:171.25.230.212"
+        ],
+        "banner": "SevoX",
+        "expire": 1638892878,
+        "banid": 299
+    },
+    {
+        "name": "kaczor",
+        "reason": "Nie określono przyczyny ( Gracz: kaczor ), Zablokowany przez: SpawarkaTop1wPD",
+        "identifiers": [
+            "steam:11000013f74f26f",
+            "license:a9b6bc0fe8261958a6eb3d5e8e609fbb43746914",
+            "discord:282544542480203777",
+            "license2:a9b6bc0fe8261958a6eb3d5e8e609fbb43746914",
+            "ip:77.253.112.8"
+        ],
+        "banner": "SpawarkaTop1wPD",
+        "expire": 1637862788,
+        "banid": 300
+    },
+    {
+        "name": "firanka.Seba",
+        "reason": "47 ( Gracz: firanka.Seba ), Zablokowany przez: Spawarka",
+        "identifiers": [
+            "steam:11000011b6e6360",
+            "license:a539b54672b328301b0cd05db55068041bed17d1",
+            "xbl:2535468172046096",
+            "live:914798088948219",
+            "discord:516168508761964547",
+            "fivem:1197389",
+            "license2:16568386d923602c152e28913f9c6dd6227cf955",
+            "ip:46.149.223.85"
+        ],
+        "banner": "Spawarka",
+        "expire": 1637956157,
+        "banid": 301
+    },
+    {
+        "name": "7Nexi7",
+        "reason": "Nie określono przyczyny ( Gracz: 7Nexi7 ), Zablokowany przez: SevoX",
+        "identifiers": [
+            "steam:11000014b3bb229",
+            "license:f0d1f08d6b71f0a8ad1ab1dcbedfef5a4d8d45f3",
+            "discord:901978275637776394",
+            "license2:f0d1f08d6b71f0a8ad1ab1dcbedfef5a4d8d45f3",
+            "ip:80.49.165.224"
+        ],
+        "banner": "SevoX",
+        "expire": 1637875476,
+        "banid": 302
+    },
+    {
+        "name": "x_Małpa_x",
+        "reason": "Nie określono przyczyny ( Gracz: x_Małpa_x ), Zablokowany przez: SevoX",
+        "identifiers": [
+            "steam:1100001404b9837",
+            "license:e603de876ca8ae95049337948d9fa5648e56bdf4",
+            "discord:898549285635915796",
+            "fivem:4408100",
+            "license2:e603de876ca8ae95049337948d9fa5648e56bdf4",
+            "ip:93.105.177.147"
+        ],
+        "banner": "SevoX",
+        "expire": 1637875493,
+        "banid": 303
+    },
+    {
+        "name": "Niekovsky",
+        "reason": "Nie określono przyczyny ( Gracz: Niekovsky ), Zablokowany przez: SevoX",
+        "identifiers": [
+            "steam:11000013bc460b0",
+            "license:5fedc54b4117be4cc232a27bdacf3cf983082229",
+            "live:1055519253619436",
+            "discord:474499188722237450",
+            "license2:5fedc54b4117be4cc232a27bdacf3cf983082229",
+            "ip:94.141.159.157"
+        ],
+        "banner": "SevoX",
+        "expire": 1637875516,
+        "banid": 304
+    }
+]

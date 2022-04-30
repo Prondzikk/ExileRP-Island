@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="pl-PL" dir="ltr">
+    <head>
+        <!-- (db) META -->
+        <meta charset="utf-8">
+        <meta name="author" content="https://dottbuff.eu">
+        <title>diablohub.pl - hud</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- (db) STYLESHEETS -->
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/v4-shims.css">
+
+        <!-- (db) GOOGLE FONTS -->
+        <link href="https://fonts.googleapis.com/css2?family=Spartan:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div class='watermark' id="game_id">
+            <div class='watermark--container'>
+                <div class='main--info'>
+                    <h2 class='title'>PlateRP.EU</h2>
+                </div>
+                <div class='main--logo'>
+                    <img src="https://cdn.discordapp.com/attachments/922575950770753547/967029004693549116/d6f18dcdfc48ef9c283fa8e68a5c7a9e-removebg-preview_1.png" />
+                </div>
+                <div class='main--id'>
+                    <span id='idText' class='id idText'>
+                        
+                    </span>
+                </div>
+            </div>
+        </div>
+
+
+		<!-- (db) JAVASCRIPTS -->
+		<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+		<script type="text/javascript" src="main.js"></script>
+		<style>
+    ::-webkit-scrollbar {
+        width: 10px;
+        height: 10px;
+    }
+    ::-webkit-scrollbar-thumb, .ipsScrollbar::-webkit-scrollbar-thumb {
+        background-color: #f89c40;
+        border-radius: 25px;
+    }
+    ::-webkit-scrollbar-track {
+        background: transparent;
+    }
+
+    * {
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+        /*user-select: none;*/
+    }
+
+    html, body {
+        height: 100%;
+    }
+
+    body {
+        margin: 0;
+        padding: 0;
+        color: #fff;
+        font-family: 'Spartan', sans-serif;
+        z-index: -1;
+    }
+
+    a {
+        color: #fff;
+    }
+
+    .list_reset {
+        padding: 0;
+        margin: 0;
+        list-style: none;
+    }
+
+/********* WATERMARK *********/
+
+.watermark {
+    display: block;
+    position: absolute;
+    text-shadow: 0px 1px 3px rgb(3 4 4 / 30%);
+    top: 2%;
+    right: 2%;
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 0 20px;
+    /* transform: skew(-10deg); */
+    transform: translate(-2%, -2%) skew(-5deg);
+    border-radius: 5px;
+}
+
+.watermark .watermark--container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+}
+
+.watermark .watermark--container .main--info {
+    display: block;
+    margin: 0 15px 0 0;
+}
+
+.watermark .watermark--container .main--info h2.title {
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+    font-weight: 700;
+    color: #fff;
+    text-align: right;
+    line-height: 1.6;
+}
+
+.watermark .watermark--container .main--info span.subtitle {
+    font-size: 12px;
+    font-weight: 400;
+    color: #7f8593;
+    text-align: center;
+    line-height: 1.6;
+}
+
+.watermark .watermark--container .main--logo {
+    display: block;
+    margin: 0 15px 0 0;
+    transform: skew(10deg);
+}
+
+.watermark .watermark--container .main--logo img {
+    max-width: 60px;
+}
+
+.watermark .watermark--container .main--id span.id {
+    font-size: 15px;
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+    line-height: 1.6;
+}
+			
+/********* HUD *********/
+
+.hud {
+    display: block;
+    position: absolute;
+    bottom: 5%;
+    right: 50%;
+    transform: translate(-50%, -5%);
+    transition: all .3s ease;
+}
+
+.hud ul {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    position: relative;
+}
+
+.hud ul > li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 50px;
+    background: #191c1f;
+    border-radius: 7px;
+    box-shadow: 0 0 40px #00000069;
+    padding: 13px;
+    position: relative;
+    font-size: 20px;
+    overflow: hidden;
+    transform: skewX(-10deg);
+}
+
+.hud ul > li#heart span {
+    background: #ff0000;
+}
+
+.hud ul > li#hunger span {
+    background: #f89c40;
+}
+
+.hud ul > li#water span {
+    background: #1da1f2;
+}
+
+.hud ul > li#voice span {
+    background: #e51df2;
+}
+
+.hud ul > li:not(:last-child) {
+    margin: 0 10px 0 0;
+}
+
+.hud ul > li i {
+    z-index: 1;
+}
+
+.hud ul > li span {
+    display: block;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    border-radius: 20px;
+    width: 4px;
+    transition: all .3s ease;
+    z-index: 0;
+}
+		</style>
+	</body>
+</html>
